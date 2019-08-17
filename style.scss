@@ -19,8 +19,10 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  /*font-family: 'Crimson Text', $helveticaNeue, serif;*/
+  font: 19px/1.4 'Crimson Text', serif;
+  //letter-spacing: 0.2px;
+  color: $darkerGray;
 }
 
 .container {
@@ -30,10 +32,44 @@ body {
   width: 100%;
 }
 
+.resume-heading{
+  font-family: $helveticaNeue;
+  letter-spacing: 1px;
+  font-weight: 300;
+  color: $darkerGray;
+  line-height: 1.0;
+  margin: 1em 0 10px;
+  padding: 0;
+  font-size: 44px;
+  text-align: center;
+}
+
+.resume-subtitle{
+  margin: 0 0 40px;
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+}
+
+.footnotes {
+  font-size: 16px;
+  color: $darkGray;
+  margin: 20px 10px 20px 10px;
+}
+
+a.footnote:before {
+ content: "[";
+}
+
+a.footnote:after {
+    content: "]";
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
-  font-weight: bold;
+  letter-spacing: 1px;
+  color: $black;
+  font-weight: 300;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -61,7 +97,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $darkGray;
 }
 
 p {
@@ -69,11 +105,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #909090;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #c0c0c0;
   }
 }
 
@@ -165,8 +201,9 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 40px;
+  height: 40px;
+  margin-top: 20px;
   margin-right: 15px;
 
   @include mobile {

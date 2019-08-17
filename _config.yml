@@ -6,10 +6,10 @@
 name: Christine Chang
 
 # Short bio or description (displayed in the header)
-description: Data & Science
+description: Data + Science
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-#avatar:
+avatar: https://raw.githubusercontent.com/christinehc/christinehc.github.io/master/images/chc_avatar.png
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: christinehc
   instagram:
-  linkedin:
+  linkedin: christine-chang-49728ba1
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
