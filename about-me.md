@@ -27,10 +27,10 @@ UW and worked on innovative projects in collaborations with data scientists at
 the [University of Washington](http://www.rezahosseinighomi.com/projects.html) and the
 [Pacific Northwest National Laboratory](https://www.pnnl.gov/computing/data/index.stm).
 We're currently preparing manuscripts for these projects, and I'm excited to
-share my contributions to the data science academic community soon. (Stay tuned!)
+share my contributions to the academic data science community soon. (Stay tuned!)
 
 ## Contact me
 
 Feel free to check out my [GitHub](https://github.com/christinehc) and
-[LinkedIn](https://www.linkedin.com/in/christine-chang-49728ba1/) profiles, or
+[LinkedIn](https://www.linkedin.com/in/chjchang/) profiles, or
 drop me a line _via_ email at [chchang (at) alumni.caltech.edu](mailto:chchang [at] alumni.caltech.edu).
