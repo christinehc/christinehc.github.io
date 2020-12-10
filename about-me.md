@@ -4,33 +4,27 @@ title: About Me
 permalink: /about-me/
 ---
 
-For most of my life, I have classified myself strictly as a laboratory scientist.
-During my time as an undergraduate at the Caltech, then later as an industry
-research scientist, and finally as a graduate student at the University of
-Washington, I captured snapshots of chemical reactions, built and designed
-chemicals and gels for smart windows, and created nanomaterials for thinner and lighter
-electronics.
+## About
 
-
-## From science to data science
-
-In the middle of a Ph.D program in materials science and engineering at the
-University of Washington, I earned a one-year, fully funded [data science
-training fellowship](http://depts.washington.edu/uwdirect/) supported by the
-[UW eScience Institute](https://escience.washington.edu/). Though the
-program was intended to help scientists use data science as a toolbox to
-advance their research, I fell in love with the versatility and power of the
-tools themselves.
-
-To learn more, I took advanced data science courses at
-UW and worked on innovative projects in collaborations with data scientists at
-the [University of Washington](http://www.rezahosseinighomi.com/projects.html) and the
-[Pacific Northwest National Laboratory](https://www.pnnl.gov/computing/data/index.stm).
-We're currently preparing manuscripts for these projects, and I'm excited to
-share my contributions to the academic data science community soon. (Stay tuned!)
-
-## Contact me
-
-Feel free to check out my [GitHub](https://github.com/christinehc) and
-[LinkedIn](https://www.linkedin.com/in/chjchang/) profiles, or
-drop me a line _via_ email at [chchang (at) alumni.caltech.edu](mailto:chchang [at] alumni.caltech.edu).
+* Data scientist in computational biology and cheminformatics research!
+  - Basically, my job is to digest (_sorry, couldn't resist_) huge analytical
+    datasets into information about molecules, whether structure- or activity-related
+    in nature.
+  - Some cool projects I've worked on:
+    * Developing models for targeted protein sequence analysis
+    * Building automated tools for smart reference library generation (_over 10x faster than a human expert!_)
+    * Predicting chemical transformations using a language-based modeling approach
+    * Using a recurrent neural network to predict whether or not Parkinson's disease
+      patients are consistently taking their medication (_max accuracy ~60%_)
+  - I also love the software development side of my job (mostly Python, some R)
+    and have accidentally contributed to open-source tools as a result.
+    Most are not yet public, but I hope to share them on GitHub soon!
+* Studied materials science and engineering, data science, and chemistry
+  - A (stringently air- and water-free) piece of my heart still lies in
+    inorganic chemistry and nanomaterials ❤
+* For fun, I love reading (_favorite authors: Margaret Atwood and Kazuo Ishiguro_),
+  drawing (_and recently, watercolor painting!_), solving puzzles (_insert clever flavor text here_),
+  and exploring new places and foods of all kinds!
+* Here are some of my online profiles:
+  - [LinkedIn](https://www.linkedin.com/in/chjchang/)
+  - [GitHub](https://github.com/christinehc) (_no ongoing personal projects at the moment, unfortunately_)

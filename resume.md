@@ -11,7 +11,7 @@ using a pre-trained variational autoencoder (VAE) encoding small molecules (see
 [arXiv:1905.08411](https://arxiv.org/abs/1905.08411)). Used `pandas` and `sklearn`
 to organize data and verify the prediction accuracy of latent space arithmetic
 for simple chemical transformations. _Manuscript in preparation._
-* Python (Jupyter, pandas, numpy, sklearn)
+* Python (Jupyter, pandas, numpy, sklearn, rdkit)
 
 #### **NeuroLex** | Visualizing How Parkinson's Disease Affects Walking
 * Used JavaScript (D3.js, Bootstrap.js) to create and publish an interactive
