@@ -20,9 +20,11 @@ html {
 body {
 	background: $white;
   /*font-family: 'Crimson Text', $helveticaNeue, serif;*/
-  font: 19px/1.4 'Crimson Text', serif;
-  //letter-spacing: 0.2px;
+  font: 20px/1.4 'Source Sans Pro', sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.2px;
   color: $darkerGray;
+  text-justify: distribute;
 }
 
 .container {
@@ -33,9 +35,9 @@ body {
 }
 
 .resume-heading{
-  font-family: 'Source Sans Pro';
-  letter-spacing: 1px;
-  font-weight: 300;
+  font-family: 'Source Sans Pro', sans-serif;
+  letter-spacing: 0.2px;
+  font-weight: 200;
   color: $darkerGray;
   line-height: 1.0;
   margin: 1em 0 10px;
@@ -46,7 +48,7 @@ body {
 
 .resume-subtitle{
   margin: 0 0 40px;
-  font-size: 20px;
+  font-size: 18px;
   font-style: italic;
   text-align: center;
 }
@@ -66,13 +68,13 @@ a.footnote:after {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Source Sans Pro';
-  letter-spacing: 1px;
+  font-family: 'Source Sans Pro', sans-serif;
+  letter-spacing: 0.2px;
   color: $black;
-  font-weight: 300;
+  font-weight: 200;
 
   line-height: 1.7;
-  margin: 1em 0 15px;
+  margin: 1em 0 5px; // 15 px
   padding: 0;
 
   @include mobile {
@@ -81,22 +83,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 32px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 28px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 22px;
   color: $darkGray;
 }
 
@@ -234,7 +236,7 @@ img {
   font-family: 'Source Sans Pro';
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1px;
+  letter-spacing: 0.2px;
 }
 
 .site-description {
@@ -250,7 +252,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: 'Source Sans Pro';
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 18px;
 
   @include mobile {
@@ -265,7 +267,7 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
+    letter-spacing: 0.2px;
 
     @include mobile {
       margin: 0 10px;

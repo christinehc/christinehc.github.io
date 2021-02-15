@@ -4,15 +4,12 @@ title: About Me
 permalink: /about-me/
 ---
 
-## Summary
+I am a data scientist specializing in computational biology and cheminformatics.
+My job is to digest (_couldn't resist_) huge analytical datasets into critical
+information bout molecules, whether structure- or activity-related in nature.
 
-* Data scientist in computational biology and cheminformatics research
-  - My job is to digest (_sorry, couldn't resist_) huge analytical
-    datasets into information about molecules, whether structure- or activity-related
-    in nature.
-* Studied materials science and engineering, data science, and chemistry
-  - A (stringently air- and water-free) piece of my heart still lies in
-    inorganic chemistry and nanomaterials ❤
+My background is in materials science and engineering, data science, and chemistry.
+A stringently air- and water-free piece of my heart still lies in inorganic chemistry and nanomaterials ❤
 
 ## Past Projects
 

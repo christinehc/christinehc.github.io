@@ -3,8 +3,13 @@ layout: resume
 title: Christine Chang | Resume
 permalink: /resume/
 ---
-# Projects
+# Work Experience
+---
+#### **Data Scientist** | Pacific Northwest National Laboratory, Seattle, WA
+* List details here
 
+# Projects
+---
 #### **DarkChem** | Cartography of Chemical Latent Space
 * Discovered and quantified latent space operations representing chemical reactions
 using a pre-trained variational autoencoder (VAE) encoding small molecules (see
@@ -38,12 +43,12 @@ deadlines, and presented work at a poster session. Used version control (Git)
 and continuous integration (Travis) to build and deploy code.
 
 # Skills
-
+---
 **Python**, JavaScript, Tableau
 
 # Education
-
-#### **M.S.** Materials Science & Engineering | _University of Washington, Seattle, WA_
+---
+#### **M.S.** Materials Science & Engineering, Data Science Option | _University of Washington, Seattle, WA_
 * GPA, Data Science: **3.9/4.0**
 * Selected Coursework: _Data Visualization_, _Machine Learning_, _Data Science Capstone_,
 _Software Engineering for Data Scientists_, _Data Science Methods for Research_
@@ -53,7 +58,7 @@ _Software Engineering for Data Scientists_, _Data Science Methods for Research_
 _Quantum Mechanics_, _Statistical Physics_, _Computer Programming in Python_
 
 # Awards
-
+---
 * 2018: NSF NRT Graduate Data Science Fellow (UW DIRECT Program)
 * 2018: Clean Energy Institute Graduate Fellow
 * 2018: Iota Sigma Pi (_National Honor Society for Women in Chemistry_) Award
